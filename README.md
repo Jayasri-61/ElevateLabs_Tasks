@@ -9,9 +9,9 @@ Mode: Virtual
 Objective: Gain hands-on experience in coding, problem-solving, and project implementation through daily tasks.
 
 Repository Structure
-Elevatelabs/Task1
-Task2/
-Task3/
+Elevatelabs/Internship/Task1
+/Task2/
+/Task3/
 ...
 Final-Task/
 README.md
