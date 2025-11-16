@@ -2,7 +2,7 @@ This repository contains all the daily tasks, projects, and learnings from my on
 
 About the Internship
 
-Duration: 1 Month
+Duration: 1 Week
 
 Mode: Virtual
 
